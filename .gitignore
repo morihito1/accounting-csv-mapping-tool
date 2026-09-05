@@ -21,3 +21,9 @@ tax_rate_config.csv
 
 # Office文書
 *.docx
+
+.venv/
+venv/
+.~lock.*
+__pycache__/
+*.pyc
