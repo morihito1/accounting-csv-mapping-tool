@@ -297,7 +297,8 @@ Excelファイルの読み込み、列のマッピング、集計結果の確認
 
 ### ローカルで実行する場合
 
-Python環境で必要なパッケージをインストールした後、Streamlitから起動します。
+Python環境で必要なパッケージをインストールした後、Streamlitから起動します。　
+動作確認環境：Python 3.12
 
 ```bash
 pip install -r requirements.txt
